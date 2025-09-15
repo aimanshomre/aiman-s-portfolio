@@ -1,0 +1,66 @@
+[
+  {
+    "id": "beshvil-hahevra",
+    "title": "Beshvil Ha'Hevra (For the Squad) – Reservist Platform",
+    "description": "Mission-driven platform for reserve soldiers: job board, verified mental-health chat, business directory, and updates.",
+    "technologies": ["React", "TypeScript", "Express", "MongoDB", "Socket.IO", "Tailwind", "Shadcn/UI"],
+    "repo": "https://github.com/aimanshomre/hackathon-miluim",
+    "link": "",
+    "image": "/images/beshvil-cover.png",
+    "highlights": [
+      "Role-based areas and secure flows",
+      "Real-time support chat (Socket.IO)",
+      "Clean, accessible UI with Tailwind/Shadcn"
+    ],
+    "year": 2025,
+    "role": "Full-Stack Developer"
+  },
+  {
+    "id": "chicko-micko-mobile",
+    "title": "Chicko Micko – React Native Food Ordering",
+    "description": "Mobile app for ordering burgers, tortillas, sides, and drinks with auth, cart, and checkout.",
+    "technologies": ["React Native", "TypeScript", "Expo", "React Navigation", "AsyncStorage"],
+    "repo": "https://github.com/aimanshomre/burgers-native-app",
+    "link": "",
+    "image": "/images/chicko-cover.jpg",
+    "highlights": [
+      "Typed models for menu and orders",
+      "Smooth onboarding and cart UX",
+      "Built for quick customization and scale"
+    ],
+    "year": 2025,
+    "role": "Mobile Developer"
+  },
+  {
+    "id": "rick-morty-aiman-and-shalev",
+    "title": "Rick & Morty Explorer",
+    "description": "Web app exploring characters, locations, and episodes using the public Rick and Morty API.",
+    "technologies": ["JavaScript", "HTML", "CSS", "Rick and Morty API"],
+    "repo": "https://github.com/aimanshomre/rick-morty-aiman-and-shalev",
+    "link": "",
+    "image": "/images/rick-morty-cover.jpg",
+    "highlights": [
+      "Character, location, and episode lists",
+      "Interlinked detail pages with navigation",
+      "Pagination, search, loading and error states"
+    ],
+    "year": 2025,
+    "role": "Frontend Developer"
+  },
+  {
+    "id": "recipe-proj-la",
+    "title": "Recipe Project (LA)",
+    "description": "Collaborative full-stack recipe app (client + server).",
+    "technologies": ["React", "Node.js", "Express", "MongoDB"],
+    "repo": "https://github.com/LielHarazi/recipe-proj-LA",
+    "link": "",
+    "image": "/images/recipe-la-cover.jpg",
+    "highlights": [
+      "Client/server codebase split",
+      "Room to add auth, CRUD recipes, and favorites",
+      "Good base for MERN deployment practice"
+    ],
+    "year": 2025,
+    "role": "Full-Stack Developer (collaboration)"
+  }
+]

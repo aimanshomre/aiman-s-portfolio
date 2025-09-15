@@ -1,0 +1,19 @@
+{
+  "name": "Aiman Shomre",
+  "role": "Full-Stack & DevOps Engineer",
+  "tagline": "I build reliable full-stack apps and ship them with pragmatic DevOps.",
+  "location": "Israel",
+  "email": "aimanshomre@gmail.com",
+  "socials": {
+    "github": "https://github.com/aimanshomre",
+    "linkedin": "https://www.linkedin.com/in/aiman-shomre-57539a36a/",
+    "x": "",
+    "website": ""
+  },
+  "skills": [
+    "Next.js", "React", "TypeScript", "Tailwind", "Shadcn",
+    "React Query", "React Hook Form", "Zod",
+    "Node.js", "Express", "MongoDB",
+    "Docker", "Linux", "Git", "CI/CD (basic)"
+  ]
+}
